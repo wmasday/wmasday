@@ -6,7 +6,7 @@
 ---
 
 <p align="left">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*U4qm92ycN-TQ1_YIyUTblw.gif" width="500" alt="blockchain"/>
+  <img src="https://cdn.jsdelivr.net/gh/PumaLearning/Blockchain@ac591289/.readme/blockchain.gif" width="100%" alt="blockchain"/>
 </p>
 
 ---
@@ -44,25 +44,7 @@
 <h2 align="left">📈 GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wmasday&show_icons=true&theme=radical" alt="wmasday's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmasday&theme=radical" alt="wmasday's GitHub streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmasday&layout=compact&theme=radical" alt="Top Langs"/>
-</p>
-
----
-
-<h2 align="left">🌟 My Projects</h2>
-
-<p align="left">
-  <a href="https://github.com/wmasday/project1">
-    <img src="https://img.shields.io/badge/Project%20One-Fullstack-blue?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/wmasday/project2">
-    <img src="https://img.shields.io/badge/Project%20Two-Pentest-orange?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/wmasday/project3">
-    <img src="https://img.shields.io/badge/Project%20Three-Open%20Source-green?style=for-the-badge"/>
-  </a>
 </p>
 
 <p align="left">
@@ -74,7 +56,7 @@
 <h2 align="left">🎓 Certifications</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/eWPTX-informational?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/badge/eWPTXv2-informational?style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/badge/CompTIA%20Linux%2B-informational?style=for-the-badge&color=F80000&logo=comptia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Certified%20Blockchain%20Practitioner%20(CBP)-with%20Merit-informational?style=for-the-badge&color=orange"/>
   <img src="https://img.shields.io/badge/Certified%20Network%20Security%20Practitioner%20(CNSP)-with%20Merit-informational?style=for-the-badge&color=green"/>
@@ -85,9 +67,25 @@
 <h2 align="left">📚 What I'm Learning</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blockchain-181717?style=for-the-badge&logo=blockchaindotcom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20Security-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+</p>
+
+<ul>
+  <li>🔗 <b>Blockchain & Smart Contract Development (Solidity):</b> Mempelajari pembuatan smart contract, audit keamanan, dan pengembangan aplikasi terdesentralisasi (dApps).</li>
+  <li>🤖 <b>Machine Learning:</b> Eksplorasi model AI, data science, dan penerapan machine learning untuk keamanan siber dan otomasi.</li>
+</ul>
+
+---
+
+<h2 align="left">📖 Learning Resources</h2>
+
+<p align="left">
+  <a href="https://cryptozombies.io/" target="_blank"><img src="https://img.shields.io/badge/CryptoZombies-Solidity-green?style=for-the-badge&logo=ethereum&logoColor=white"/></a>
+  <a href="https://www.coursera.org/learn/machine-learning" target="_blank"><img src="https://img.shields.io/badge/Andrew%20Ng%20ML%20Course-blue?style=for-the-badge&logo=coursera&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Data%20Science-blue?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </p>
 
 ---
@@ -102,27 +100,12 @@
 
 ---
 
-<!-- Custom SVG Divider -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/wmasday/wmasday/main/assets/divider.svg" width="80%"/>
-</p>
-
----
-
-<h2 align="left">📱 Contact Me (Scan QR!)</h2>
-
-<p align="left">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://linkedin.com/in/yourlinkedin&size=150x150" alt="QR code to LinkedIn"/>
-</p>
-
----
-
 <h2 align="left">🌐 Connect with Me</h2>
 
 <p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:withmasday@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/wmasday"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/0xnecl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
