@@ -6,7 +6,7 @@
 ---
 
 <p align="left">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="hacker gif"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*U4qm92ycN-TQ1_YIyUTblw.gif" width="500" alt="blockchain"/>
 </p>
 
 ---
@@ -74,9 +74,10 @@
 <h2 align="left">🎓 Certifications</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OSCP-informational?style=for-the-badge&logo=offensive-security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CEH-informational?style=for-the-badge&logo=ec-council&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Other%20Cert-placeholder-lightgrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/eWPTX-informational?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/badge/CompTIA%20Linux%2B-informational?style=for-the-badge&color=F80000&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Certified%20Blockchain%20Practitioner%20(CBP)-with%20Merit-informational?style=for-the-badge&color=orange"/>
+  <img src="https://img.shields.io/badge/Certified%20Network%20Security%20Practitioner%20(CNSP)-with%20Merit-informational?style=for-the-badge&color=green"/>
 </p>
 
 ---
