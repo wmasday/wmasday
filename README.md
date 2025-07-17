@@ -1,17 +1,17 @@
 <!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Hidayat!;Penetration+Tester+%F0%9F%94%92;Fullstack+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&left=true&vleft=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Hidayat!;Penetration+Tester+%F0%9F%94%92;Fullstack+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="hacker gif"/>
 </p>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="left">🚀 About Me</h2>
 
 <ul>
   <li>🔒 <b>Penetration Tester</b> passionate about cybersecurity, ethical hacking, and securing digital assets.</li>
@@ -22,9 +22,9 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="left">🛠️ Tech Stack & Tools</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -41,9 +41,9 @@
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="left">📈 GitHub Stats</h2>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=wmasday&show_icons=true&theme=radical" alt="wmasday's GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wmasday&theme=radical" alt="wmasday's GitHub streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmasday&layout=compact&theme=radical" alt="Top Langs"/>
@@ -51,9 +51,74 @@
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="left">🌟 My Projects</h2>
 
-<p align="center">
+<p align="left">
+  <a href="https://github.com/wmasday/project1">
+    <img src="https://img.shields.io/badge/Project%20One-Fullstack-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/wmasday/project2">
+    <img src="https://img.shields.io/badge/Project%20Two-Pentest-orange?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/wmasday/project3">
+    <img src="https://img.shields.io/badge/Project%20Three-Open%20Source-green?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="left">
+  <i>Check out more on my <a href="https://github.com/wmasday?tab=repositories">repositories</a>!</i>
+</p>
+
+---
+
+<h2 align="left">🎓 Certifications</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OSCP-informational?style=for-the-badge&logo=offensive-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CEH-informational?style=for-the-badge&logo=ec-council&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Other%20Cert-placeholder-lightgrey?style=for-the-badge"/>
+</p>
+
+---
+
+<h2 align="left">📚 What I'm Learning</h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Security-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="left">💡 Fun Facts</h2>
+
+<ul>
+  <li>🕵️‍♂️ I love solving CTF (Capture The Flag) challenges in my free time.</li>
+  <li>🌏 I enjoy collaborating with global open-source communities.</li>
+  <li>🎨 I design my own hacking tools and scripts.</li>
+</ul>
+
+---
+
+<!-- Custom SVG Divider -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/wmasday/wmasday/main/assets/divider.svg" width="80%"/>
+</p>
+
+---
+
+<h2 align="left">📱 Contact Me (Scan QR!)</h2>
+
+<p align="left">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://linkedin.com/in/yourlinkedin&size=150x150" alt="QR code to LinkedIn"/>
+</p>
+
+---
+
+<h2 align="left">🌐 Connect with Me</h2>
+
+<p align="left">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -61,6 +126,6 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
 </p> 
