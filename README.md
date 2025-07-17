@@ -1,14 +1,7 @@
 <!-- Animated Header -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&left=true&vleft=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Hidayat!;Penetration+Tester+%F0%9F%94%92;Fullstack+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&left=true&vleft=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Masday!;Penetration+Tester+%F0%9F%94%92;Fullstack+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
-
----
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/PumaLearning/Blockchain@ac591289/.readme/blockchain.gif" width="100%" alt="blockchain"/>
-</p>
-
 ---
 
 <h2 align="left">🚀 About Me</h2>
