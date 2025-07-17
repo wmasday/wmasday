@@ -52,7 +52,7 @@
 <h2 align="left">🎓 Certifications</h2>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/eWPTXv2-informational?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/badge/Web%20Application%20Penetration%20Tester%20eXtreme%20v2-informational?style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/badge/CompTIA%20Linux%2B-informational?style=for-the-badge&color=F80000&logo=comptia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Certified%20Blockchain%20Practitioner%20(CBP)-with%20Merit-informational?style=for-the-badge&color=orange"/>
   <img src="https://img.shields.io/badge/Certified%20Network%20Security%20Practitioner%20(CNSP)-with%20Merit-informational?style=for-the-badge&color=green"/>
